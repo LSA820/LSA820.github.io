@@ -1,6 +1,8 @@
 ---
 layout: single
-title: "[Java] 비선형 자료구조 - Graph"
+title: "[Java] 비선형 자료구조"
+categories: 
+  - CS
 ---
 
 # Graph (그래프)
